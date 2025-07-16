@@ -5,10 +5,10 @@ Welcome to my CP journey! This repository documents my daily practice, learning,
 ## 📚 Topics Covered
 - Arrays & Subarrays (Basic to Advanced)
 - Searching Algorithms (Linear, Binary)
-- Sorting Algorithms (Coming Soon)
-- Two-Pointer & Sliding Window (Coming Soon)
+- Sorting Algorithms 
+- Two-Pointer & Sliding Window
 - Prefix Sums, Kadane’s Algorithm
-- Recursion, Backtracking, Bit Manipulation (Soon)
+- Recursion, Backtracking, Bit Manipulation 
 
 ## 💻 Platforms
 - [LeetCode](https://leetcode.com/)
