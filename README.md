@@ -1,6 +1,6 @@
 # 🚀 Competitive Programming in Java
 
-Welcome to my 30-day CP journey! This repository documents my daily practice, learning, and problem-solving in **Java** across platforms like **LeetCode** and **Codeforces**.
+Welcome to my CP journey! This repository documents my daily practice, learning, and problem-solving in **Java** across platforms like **LeetCode** and **Codeforces**.
 
 ## 📚 Topics Covered
 - Arrays & Subarrays (Basic to Advanced)
